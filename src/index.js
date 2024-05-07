@@ -1,1 +1,1 @@
-console.log('Hola mundo');
+console.log('Server listen on port', 3000);
